@@ -3,7 +3,7 @@
 ## Roads
 ###### Recommended mods for building road:
 * Precision Engineering (ID=445589127)
-* Pause on load (ID=408905948) 
+* Pause on load (ID=408905948)
 
 Every Mayor knows that at the beginning of the game, the game should be paused and then
 roads have to be built, since many buildings want to be near them.
@@ -58,3 +58,38 @@ Police and Firefighters in the center of it all on the roundabout.
 More people want to go in the city, so bridge over the water build was build and new residential area with spaces for parks built!
 
 # Day second
+
+After third milestone - the Tiny Town was reached more roads in the free areas were built so most of the space can be used.
+This happened mainly in farm land where wider roads were used. There is room for expansion, but increase should happen
+slowly because of possible traffic issues.
+
+Tunnel was built for incoming tractors which ends near the edge (at that time) of city, near garbage area.
+From certain point the tunnel is free way so it can be quickly accessed from first roundabout.
+
+On this map a major problem seemed to be the regular draining from the river, in my case perhaps some accidental
+terraforming from buildings made the sewage go 'upstream' where the drain was, which resulted in many ill people.
+Hence new hospital.
+
+Before I got an idea to remove these drainers (they drain even when off) I made significant terraforming on the river which might make it funny a bit and with often rains, there will be floods.
+
+Probably the high taxes gives a lot of income, very nice and easy even on 'hard mode'.
+
+Lots of demand for residential areas, so several areas have been made pointing on the 'north' where area with access to railways is. After all those people move in, there was demand for more jobs, luckily on the 'east' side of the city, wood industry might have a good chance. Different product (which has no advantage) and traffic which should only go through highway (much more important).
+
+Garbage is filling up, lots more area needed. Far from residential areas.
+With 4 new ones, the old one could be emptied and eventually removed.
+
+Large police headquarters built with smaller firefighters station next to it.
+
+Finally larger air powered stations are possible, next station will be solar powered.
+
+Largest challenge was to built 'south of the starting point' which means rebuilding the current T shaped highway crossing.
+After watching this [video](https://youtu.be/N4PW66_g6XA?t=493) I tried out implementing Diamond Way Interchange, with those main roads being as two way, which does not work well for cars AI, since they do dumb things...
+The larger problem is that this interchange is also joined with some tunnels from the city and then this 'roundabout above highway bellow another roundabout' which makes it bit more confusing at first look. Plus all the limits off the road is blocking upgrades and etc... Probably good time to install Road Anarchy. Leave that for antoher day.
+
+With that 'done' and few more residential areas built, city finally reached the sixth, the Big Town milestone.
+Universities, burning of the garbage and high density zones, lots will change.
+
+# Day Third
+
+The highway junction was ridiculous, 2 way roads converted to one way where it made sense...
