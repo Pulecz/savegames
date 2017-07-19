@@ -9,7 +9,7 @@ See mayor_log.md for more details.
 
 Captures for timelapse:
 
-its lots of pictures, will be stored elsewhere
+Browse the screens here - https://drive.google.com/open?id=0BxAnXCO6KVdUTVVJRTRiMXJscG8.
 
 How was it made?
 Using Camera Positions Utility (ID=898480258) and HideUI (ID=406326408)
