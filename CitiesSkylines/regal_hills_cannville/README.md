@@ -2,6 +2,12 @@
 
 Savegames with mod list.
 
+I did 9 saves total until I decided to just use one file master-cannvile.crp which first's commit is from same date as 08_sixth_milestone_bigtown_ad.crp.
+This file will be overwritten each time from later saves. Each commit marking 09 and 10 and etc.
+The idea is to have each commit as a certain time in game.
+
+The older files will remain for now, but will eventually be archived out from this repo.
+
 See mayor_log.md for more details.
 
 # Map :  Regal Hills
@@ -32,7 +38,11 @@ see file stable.xml and copy it to c:\Users\${user}\AppData\Local\Colossal Order
 
 used mods: (exported by copy to clipboard from settings of the Mod List mod)
 
-### ### mods list ###
+---------------------------------------------------------------------------
+
+* config stable
+
+### mods list ###
 
 * Hard Mode (ID=18446744073709551615)                         activated
 * Unlimited Money (ID=18446744073709551615)                   deactivated
@@ -110,7 +120,7 @@ used mods: (exported by copy to clipboard from settings of the Mod List mod)
 * EuropeanBuildingsUnlocker (ID=456408505)                    activated
 * Move It! 1.7.5 (ID=766190099)                               activated
 
-### ### assets list ###
+### assets list ###
 
 * Timboh's Turbine Interchange II (ID=406269372)              deactivated
 * Timboh's Windmill Interchange (ID=406646871)                deactivated
@@ -181,6 +191,6 @@ used mods: (exported by copy to clipboard from settings of the Mod List mod)
 * SRB 3 (ID=798638211)                                        activated
 * Decorative Tree Stump  CC (ID=728106080)                    activated
 
-### ### district styles list ###
+### district styles list ###
 
 * EuropeanBuiltinStyle_q3oji4g (ID=18446744073709551615)      activated

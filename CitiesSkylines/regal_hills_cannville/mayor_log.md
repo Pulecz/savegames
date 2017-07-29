@@ -93,3 +93,12 @@ Universities, burning of the garbage and high density zones, lots will change.
 # Day Third
 
 The highway junction was ridiculous, 2 way roads converted to one way where it made sense...
+
+Oh noes, mayor went to party and forgot stuff...
+
+# Next week
+
+Dunno what happened but we reached Big Town milestone! That meant we could finally start designated high density areas and burn our trash! Still some time until we can clean our poo water.
+Made a new district - Dirty Park to put there a few trash burning buildings and some place for trash.
+Few places in city had their area changed, usually to high density. One of the districts near the edge bellow mountain is half full of high density residential areas, the lower residents refuse to destroy their tiny houses and put nice big buildings there. So city had
+to act few times...
