@@ -102,3 +102,12 @@ Dunno what happened but we reached Big Town milestone! That meant we could final
 Made a new district - Dirty Park to put there a few trash burning buildings and some place for trash.
 Few places in city had their area changed, usually to high density. One of the districts near the edge bellow mountain is half full of high density residential areas, the lower residents refuse to destroy their tiny houses and put nice big buildings there. So city had
 to act few times...
+
+# Few days later
+
+The diamond highway junction had weird road colors, it was rebuilt to a nicer shape and some tunnels to main highway were built
+Big city achieved. Finally we can recycle water and burn people.
+
+# Big pause
+
+Probably forgot to commit the whole thing since last time. Here we go.
