@@ -85,7 +85,7 @@ Finally larger air powered stations are possible, next station will be solar pow
 
 Largest challenge was to built 'south of the starting point' which means rebuilding the current T shaped highway crossing.
 After watching this [video](https://youtu.be/N4PW66_g6XA?t=493) I tried out implementing Diamond Way Interchange, with those main roads being as two way, which does not work well for cars AI, since they do dumb things...
-The larger problem is that this interchange is also joined with some tunnels from the city and then this 'roundabout above highway bellow another roundabout' which makes it bit more confusing at first look. Plus all the limits off the road is blocking upgrades and etc... Probably good time to install Road Anarchy. Leave that for antoher day.
+The larger problem is that this interchange is also joined with some tunnels from the city and then this 'roundabout above highway bellow another roundabout' which makes it bit more confusing at first look. Plus all the limits off the road is blocking upgrades and etc... Probably good time to install Road Anarchy. Leave that for another day.
 
 With that 'done' and few more residential areas built, city finally reached the sixth, the Big Town milestone.
 Universities, burning of the garbage and high density zones, lots will change.
@@ -111,3 +111,20 @@ Big city achieved. Finally we can recycle water and burn people.
 # Big pause
 
 Probably forgot to commit the whole thing since last time. Here we go.
+
+# 2017/09/04 - 3:00
+
+Wanted to have a 30 minute checkup, 2 hours gone, thanks.
+Did some traffic optimizations mainly for garbage trucks near highway where is the incinerator part.
+Train station for people now exists with metro leading to it. That also has new stop at university.
+Build some offices, somehow great work demand fell. Some few residential areas.
+Build Spa hotel and small tourist zones, it created crazy high hotels.
+Wilson street created connecting end of the city with other part over river.
+
+We really need to name stuff properly.
+
+When small cold comes people use electricity for heating like crazy and at the same time some of the power plants lose power.
+That results in 100MW drop which is of course causing a lot of issues.
+Therefore geothermal heating was introduced and now there is need to upgrade a looot of pipes.
+
+Seems like main traffic line through city is getting too many cars. Some huge roundabouts should be introduced.
