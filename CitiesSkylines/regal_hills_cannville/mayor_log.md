@@ -128,3 +128,14 @@ That results in 100MW drop which is of course causing a lot of issues.
 Therefore geothermal heating was introduced and now there is need to upgrade a looot of pipes.
 
 Seems like main traffic line through city is getting too many cars. Some huge roundabouts should be introduced.
+
+# 2017/10/13
+
+Friday the 13th, lets see..
+
+Things are fine, we are making money! Some complaints of not enough customers or not enough products, meh.
+
+# 2017/20/10
+
+Accidently disabled despawning of vehicles, last time, resulting in terror.
+Graves are full, build more of those burning places. Some fire houses, some fillings of the areas and mainly starting to build some "outter highway" which should also help some of the industrial traffic.
