@@ -16,7 +16,7 @@ Helper bash script is ready for loading ssh-key related to github and copying .c
 
 It makes you to write you some mayolor_log.md
 
-Then it opens TotalCommander with left panel on new screenshots made by game and your backup folder, which is probably some folder in google drive folder so new screens can be uploaded.
+Then it opens TotalCommander with left panel on new screenshots made by steam and your backup folder, which is probably some folder in google drive folder so new screens can be uploaded.
 
 Just make sure to edit/verify [these few variables](https://github.com/Pulecz/savegames/blob/master/git_savegames_helper_cs.sh#L11)
 

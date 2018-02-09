@@ -31,8 +31,10 @@ sys_paths=(
 game=(
 	["backup_path"]="${backup_folder}/cities_skylines/${backup_id}_${name_map}_${name_city}"
 	["git_path"]="${sys_paths[home]}/git/savegames/CitiesSkylines/${name_map}_${name_city}"
-	["savegames"]="${sys_paths[local_appdata]}/Colossal Order/Cities_Skylines"
+	["savegames_path"]="${sys_paths[local_appdata]}/Colossal Order/Cities_Skylines"
+	["savegames_screenshots_path"]="${sys_paths[local_appdata]}/Colossal Order/Cities_Skylines/Screenshots"
 	["steam_cloud"]="${steam_userdata}/255710/remote"
+	["steam_screenshots"]="${steam_userdata}/760/remote/255710/screenshots"
 )
 
 # start helper
@@ -72,10 +74,10 @@ start mayor_log.md
 
 # sort screenshots
 echo "Maybe you want to see the screens during, opening TotalCMD with new screenshots on the left and your backup_folder on right"
-start ${totalcmdbin} -L="${game[savegames]}"/Screenshots -R="${game[backup_path]}"/screens
+start ${totalcmdbin} -L="${game[steam_screenshots]}" -R="${game[backup_path]}"/screens
 
 # remind about mods.xml
-ModsList_path="${game[savegames]}"/Addons/Mods/ModsList/ModsList_savefiles
+ModsList_path="${game[savegames_path]}"/Addons/Mods/ModsList/ModsList_savefiles
 
 if [ -d  "${ModsList_path}" ]
 	then ls "${ModsList_path}" -alh
