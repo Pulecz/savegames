@@ -139,3 +139,7 @@ Things are fine, we are making money! Some complaints of not enough customers or
 
 Accidently disabled despawning of vehicles, last time, resulting in terror.
 Graves are full, build more of those burning places. Some fire houses, some fillings of the areas and mainly starting to build some "outter highway" which should also help some of the industrial traffic.
+
+# 2017/23/12
+
+Things changed, forgot what really...
