@@ -59,23 +59,6 @@ function pick_a_file() {
 echo Copying to git folder, confirm overwrite, if you didn\'t made a commit before
 cp -i "${game[steam_cloud]}"/${target_save} "${game[git_path]}"
 
-# edit mayor log
-cd "${game[git_path]}"
-
-# touch(create) mayor_log.md if does not exist
-	if ! [ -e mayor_log.md ]
-	then echo "mayor_log.md does not exist, creating new one"
-	touch mayor_log.md
-	fi
-
-echo
-echo Add changes
-start mayor_log.md
-
-# sort screenshots
-echo "Maybe you want to see the screens during, opening TotalCMD with new screenshots on the left and your backup_folder on right"
-start ${totalcmdbin} -L="${game[steam_screenshots]}" -R="${game[backup_path]}"/screens
-
 # remind about mods.xml
 ModsList_path="${game[savegames_path]}"/Addons/Mods/ModsList/ModsList_savefiles
 
@@ -93,5 +76,21 @@ if [ -d  "${ModsList_path}" ]
 	fi
 fi
 
+# run editor for mayor_log.md and totalcmd for screenshots
 cd "${game[git_path]}"
+
+# touch(create) mayor_log.md if does not exist
+if ! [ -e mayor_log.md ]
+	then echo "mayor_log.md does not exist, creating new one"
+	touch mayor_log.md
+fi
+
+echo
+echo Add changes
+start mayor_log.md  # runs whatever is associated with windows
+
+# sort screenshots
+echo "Maybe you want to see the screens during, opening TotalCMD with new screenshots on the left and your backup_folder on right"
+start ${totalcmdbin} -L="${game[steam_screenshots]}" -R="${game[backup_path]}"/screens
+
 echo "now do git magic! commit and push"

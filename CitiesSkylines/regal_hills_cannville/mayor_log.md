@@ -143,3 +143,15 @@ Graves are full, build more of those burning places. Some fire houses, some fill
 # 2017/23/12
 
 Things changed, forgot what really...
+
+# 2018/02/10
+
+We were in debt, much loans. Luckily all is green so that was payed by year 2038.
+Hilly part with trains had dead body in children's playground, so new graveyard on closest straight land had to be build (way uphill), people seemed happy.
+People wanted new jobs, but since we have cars and trucks everywhere now, only offices were allowed.
+I spot some person driving around block 5 times (weeks of gametime...) as he was looking for parking spot, he is still supper happy though so meh.
+The wierd part on the South Side (looking from camera 9) had to be redesigned! Highway now continues underground into the future parts of town (2100 maybe?).
+Now it looks bit better.
+
+Oh and Cold Power Plant is no more! But we always have to have day on, otherwise we would be loosing power. There is need for new heating plant as well.
+Some science building was build near the smallest and bussiest crossroads in town, just bellow uni. I hope they will produce some mind which will fix the traffic issues. Flying cars perhaps?
