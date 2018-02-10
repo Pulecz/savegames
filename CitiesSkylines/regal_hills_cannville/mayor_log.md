@@ -144,7 +144,7 @@ Graves are full, build more of those burning places. Some fire houses, some fill
 
 Things changed, forgot what really...
 
-# 2018/02/10
+# 2018/02/09
 
 We were in debt, much loans. Luckily all is green so that was payed by year 2038.
 Hilly part with trains had dead body in children's playground, so new graveyard on closest straight land had to be build (way uphill), people seemed happy.
@@ -155,3 +155,13 @@ Now it looks bit better.
 
 Oh and Cold Power Plant is no more! But we always have to have day on, otherwise we would be loosing power. There is need for new heating plant as well.
 Some science building was build near the smallest and bussiest crossroads in town, just bellow uni. I hope they will produce some mind which will fix the traffic issues. Flying cars perhaps?
+
+# 2018/02/10
+
+Finally passed over 32k citizens, it kept going between 31-29 for long time.
+New districts, even for those IT guys who need huge buildings. Bellow the hill was a split river as a result from finicky water plays from before. So one riverside had to be raised.
+There will be place for luxurious district, provided that all old water clenaers will get swapped with even cleaner ones.
+Some road optimization along the 'inner roandabout'.
+New train station more in the city which nobody can like.
+And another one on the other side, which nobody will use.
+Not so far to connect with other side of the map, but we will need to unlock all tiles before.
