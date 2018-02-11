@@ -166,6 +166,22 @@ New train station more in the city which nobody can like.
 And another one on the other side, which nobody will use.
 Not so far to connect with other side of the map, but we will need to unlock all tiles before.
 
+
+# 2018/02/11
+
+44k pop, Collosal city. 2042 or 2043? Time flies.
+
+Cooper and Wright highways were finally connected in one loop, optimalizing connections will take time.
+
+Garbage 'improvements' moved on the edges away from inner city.
+
+Few more hospitals and one police station. Many graveyards and crematorioums.
+
+Zone painting is nicer now.
+
+The 'diamond crossroads' is a mess, maybe Cooper and Wright can help?
+
+
 ---------------------------------------------------------------------------
 
 used mods: (exported by copy to clipboard from settings of the Mod List mod)
