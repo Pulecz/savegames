@@ -27,3 +27,11 @@ I should do video on it anyway.
 
 ## Planned:
 RimWorld
+
+## Maybe
+ADOM
+Banished
+Kerbal Space Program
+Planet Coaster
+Prison Architect
+Stonehearth

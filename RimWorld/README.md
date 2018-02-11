@@ -4,4 +4,6 @@ Copy a file from folder, see at rimworldwiki.com/wiki/Save_file
 
 Version 0.18 saves only.
 
-* TBD
+* Chillio on seed 'sea lion'
+
+  ModsConfig included
