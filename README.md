@@ -2,7 +2,7 @@
 
 Save and share your savegames to git for others to use and see the progress
 
-* Cities Skylines
+## Cities Skylines
 	
 Idea is to use one savegame per branch, which will get overwritten with each commit.
 
@@ -25,13 +25,17 @@ You will also need [these scripts](https://github.com/Pulecz/dotfiles/tree/maste
 
 I should do video on it anyway.
 
-## Planned:
-RimWorld
+## RimWorld
 
-## Maybe
-ADOM
-Banished
-Kerbal Space Program
-Planet Coaster
-Prison Architect
-Stonehearth
+Similar thing with CS, pick save, copy it, ask for ModsConfig, open totalcmd for managing screenshots and default editor for save's README.md
+
+### Planned:
+None
+
+### Maybe
+* ADOM
+* Banished
+* Kerbal Space Program
+* Planet Coaster
+* Prison Architect
+* Stonehearth

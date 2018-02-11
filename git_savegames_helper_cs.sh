@@ -87,18 +87,18 @@ if [ -d  "${ModsList_path}" ]
     fi
 fi
 
-## 3. run editor for mayor_log.md and totalcmd for screenshots
+## 3. run editor for README.md(mayor_log.md) and totalcmd for screenshots
 cd "${game[git_path]}"
 
-# touch(create) mayor_log.md if does not exist
-if ! [ -e mayor_log.md ]
-    then echo "mayor_log.md does not exist, creating new one"
-    touch mayor_log.md
+# touch(create) README.md if does not exist
+if ! [ -e README.md ]
+    then echo "README.md does not exist, creating new one"
+    touch README.md
 fi
 
 echo
 echo Add changes
-start mayor_log.md  # runs whatever is associated with windows
+start README.md  # runs whatever is associated with windows
 # sort screenshots
 echo "Maybe you want to see the screens during, opening TotalCMD with new screenshots on the left and your backup_folder on right"
 # make sure the dir for screens exist
