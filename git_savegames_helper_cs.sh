@@ -13,9 +13,11 @@ name_map="regal_hills"
 name_city="cannville"
 backup_id="09" # 2 digit number
 
+# note that bash used in cmder 1.3.5 does not map network drives, use msys instead
 backup_folder="/s/incoming/saves"
 steam_userdata="/c/Program Files (x86)/Steam/userdata/52064014"
 totalcmdbin="/c/totalcmd/TOTALCMD64.EXE"
+ffmpegbin="/c/ProgramData/chocolatey/bin/ffmpeg.exe"  # installed via chocolatey
 
 # initialize associatve arrays(something like dictionary)
 declare -A sys_paths
@@ -99,10 +101,35 @@ fi
 echo
 echo Add changes
 start README.md  # runs whatever is associated with windows
-# sort screenshots
+# 4. sort screenshots
 echo "Maybe you want to see the screens during, opening TotalCMD with new screenshots on the left and your backup_folder on right"
 # make sure the dir for screens exist
 mkdir_if_none "${game[backup_path]}"/screens
 start ${totalcmdbin} -L="${game[steam_screenshots]}" -R="${game[backup_path]}"/screens
 
+# 5. see if user already created screens/timelapse folder in ${game[backup_path]}" to do timelapse
+if [ -d "${game[backup_path]}"/screens/timelapse ]
+	then 
+	camera_positions=$(ls "${game[backup_path]}"/screens/timelapse)
+	echo You currently have saved these camera positions: ${camera_positions}
+	read -p "Do you want to update timelapse for each one? [y/n]" if_to_do_timelapse
+	if [ "$if_to_do_timelapse" = "y" ]
+		# go to each folder, run ffmpeg to create timelapse
+		then for camera in ${camera_positions}
+			do cd "${game[backup_path]}"/screens/timelapse/${camera}
+			# input is raw jpg, output is timelapse, -y to overwrite
+			# -f = fmt (input/output) - forces image2pipe
+			# -r = fps, framerate, 1 for one screen per second
+			# -vcodec 1, pick mjpeg as codec, probably for input
+			# -i, input from -, the pipe, I guess!
+			# -vcodec 2,pick libx264, probably for output
+			cat *.jpg | ${ffmpegbin} -f image2pipe -r 1 -vcodec mjpeg -i - -vcodec libx264 -y timelapse.mp4
+			done
+    elif [ "$if_to_do_timelapse" = "n" ]
+        then echo ok
+	fi
+fi
+
+# 5. throw user to git folder so git work can be done
 echo "now do git magic! commit and push"
+cd "${game[git_path]}"
