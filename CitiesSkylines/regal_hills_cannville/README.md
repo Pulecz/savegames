@@ -181,6 +181,16 @@ Zone painting is nicer now.
 
 The 'diamond crossroads' is a mess, maybe Cooper and Wright can help?
 
+# 2018/02/19
+
+42k pop, not rising.
+
+Diamond bridge was problematic, simplified, many of the roads with turning lane mane roads passing through each other. So they were replaced with more lanes, no 'shared' turning lanes.
+
+Schools built, new ore district 'Underhill', very empty now.
+
+Hmmm its slow.
+
 
 ---------------------------------------------------------------------------
 
