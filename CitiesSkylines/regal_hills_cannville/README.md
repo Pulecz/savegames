@@ -191,13 +191,22 @@ Schools built, new ore district 'Underhill', very empty now.
 
 Hmmm its slow.
 
+# 2018/04/07
+
+CSL will never be faster, deal with it, 20 fps for life.
+
+New mods added, this video helped https://www.youtube.com/watch?v=Ip3adtXmfr4, although I initially loaded those mods from some collection.
+
+City is growing slowly, 43k pop or so, not rising too much, stabilizing, modey is 8k a month, 200k now, lets spend it on some stuff!
+
+It won't be long until I am finished with this town and move to another, already picked a spot and name.
 
 ---------------------------------------------------------------------------
 
 used mods: (exported by copy to clipboard from settings of the Mod List mod)
 then regex ^([\w]) to replace with \* $1 (match all lines starting with \w, catch that and replace with \*\s$1(the caughted latter))
 
-* config stable
+config new_nicer_bunch
 
 ### mods list ###
 
@@ -207,77 +216,84 @@ then regex ^([\w]) to replace with \* $1 (match all lines starting with \w, catc
 * Unlimited Soil (ID=18446744073709551615)                    deactivated
 * Unlock All (ID=18446744073709551615)                        deactivated
 * Subtle Bulldozer and More! (ID=768213484)                   activated
-* Vehicle Effects 1.7 (ID=780720853)                          deactivated
-* Extra Vehicle Effects (ID=815103125)                        deactivated
+* Extra Vehicle Effects (ID=815103125)                        activated
 * Font Selector (ID=412149127)                                activated
 * Network Extensions 2 (ID=812125426)                         activated
 * Disable ZoneCheck (ID=821539759)                            activated
 * Traffic Manager: President Edition [1.10.5] (ID=583429740)  activated
-* Roads For NeExt 2 (ID=929114228)                            deactivated
+* Roads For NeExt 2 (ID=929114228)                            activated
 * More Beautification (ID=505480567)                          activated
-* 81 Tiles (Fixed for C:S 1.2+) (ID=576327847)                activated
 * Spawn/Unspawn Positions Swapper (ID=538019888)              activated
 * Ploppable RICO (ID=586012417)                               deactivated
 * District Policies Highlighting (ID=580852360)               activated
 * Improved Content Manager (ID=814498849)                     activated
 * Track My Time (ID=932490392)                                activated
-* Fine Road Tool 1.3.1 (ID=651322972)                         activated
 * Sort Mod Settings (ID=973512634)                            activated
-* Ploppable Asphalt (ID=881291183)                            activated
 * Pause on load (ID=408905948)                                activated
 * Tree brush (ID=406723376)                                   activated
-* Moon Phases 1.1 (ID=751706914)                              activated
 * Panorama (ID=929295695)                                     activated
-* Camera Positions Utility (ID=898480258)                     activated
-* Any Road Outside Connections (ID=883332136)                 activated
 * UnlimitedOutsideConnections (ID=497033453)                  activated
 * Unlock Basic Roads (ID=408881255)                           activated
 * Brooklyn Bridge Fix (ID=657851085)                          activated
-* Touch This! 1.1 (ID=755839415)                              activated
 * Roads United: Europe (ID=837112310)                         activated
 * Roads United Core + (ID=726005715)                          activated
-* Prefab Hook (ID=530771650)                                  activated
 * Reddit for Chirpy (ID=819797131)                            activated
 * Prop Precision 1.0.1 (ID=791221322)                         activated
 * Prop Line Tool (ID=694512541)                               activated
 * LOD Toggler (ID=561888259)                                  activated
 * Environment Changer (ID=611254368)                          activated
-* OverLayer (ID=662933818)                                    activated
-* Sun Shafts (ID=933513277)                                   activated
-* Ship Converter (ID=928103306)                               activated
 * Tree Snapping (ID=869134690)                                activated
-* Ambient Sounds Tuner (ID=818641631)                         activated
 * Prop Snapping (ID=787611845)                                activated
 * Surface Painter (ID=689937287)                              activated
 * No Radioactive Desert And More! (ID=666425898)              activated
 * Quay Anarchy (ID=650436109)                                 activated
-* Winter Buildings Unlocker (ID=627047745)                    activated
-* Zen Garden Cherry Blossom Unlocker (ID=597981885)           activated
-* More Flags (ID=595017353)                                   activated
-* Prop & Tree Anarchy (ID=593588108)                          activated
 * More Diverse Crowd (ID=578320825)                           activated
 * No Tree Brush Slope Limit (ID=554763781)                    activated
-* Daylight Classic (ID=530871278)                             activated
 * Prop Remover (ID=518456166)                                 activated
 * Extra Landscaping Tools (ID=502750307)                      activated
 * NotSoUniqueBuildings (ID=466834228)                         activated
-* EuropeanBuildingsUnlocker (ID=456408505)                    activated
-* Move It! 1.7.6 (ID=766190099)                               activated
-* Advanced Vehicle Options 1.7.5 (ID=442167376)               deactivated
 * Pedestrian Crossings (ID=427258853)                         activated
-* All Areas purchaseable (ID=405810376)                       deactivated
-* Random Tree Rotation (ID=556784825)                         deactivated
 * Additional Key Bindings (ID=406828238)                      activated
 * Extended Road Upgrade (ID=408209297)                        activated
-* Automatic Bulldoze (ID=406132323)                           activated
-* Toggle Traffic Lights (ID=411833858)                        activated
 * Precision Engineering (ID=445589127)                        activated
 * HideUI (ID=406326408)                                       activated
 * MoreSimulationSpeedOptions (ID=412292157)                   activated
 * Enable Achievements (ID=407055819)                          activated
 * Loading Screen Mod (ID=667342976)                           activated
-* Prop it Up! 1.4.2 (ID=878991312)                            activated
-* Simulation Speed Benchmark (ID=908700552)                   deactivated
+* Simulation Speed Benchmark (ID=908700552)                   activated
+* Prop it Up! 1.4.4 (ID=878991312)                            activated
+* 81 Tiles (Fixed for C:S 1.2+) (ID=576327847)                activated
+* AST: KRA Sound Pack (ID=618536610)                          activated
+* ChirpFilter (ID=407871375)                                  activated
+* Find It! 1.4.4 (ID=837734529)                               activated
+* Random Tree Rotation (ID=556784825)                         activated
+* Ultimate Eyecandy 1.5.2 (ID=672248733)                      activated
+* Tides (ID=1348627392)                                       activated
+* Ploppable Asphalt (ID=881291183)                            activated
+* Less Steam (ID=812107110)                                   activated
+* Automatic Bulldoze v2 (ID=639486063)                        activated
+* Topographic Lines Toggle (ID=877748783)                     activated
+* Transparency LOD Fix + Cloud Assets Enabler (ID=922939393)  activated
+* Softer Shadows (ID=643364914)                               activated
+* Remove Decoration Sprites (ID=547533304)                    activated
+* ShadowStrengthAdjuster (ID=762520291)                       activated
+* Relight (ID=1209581656)                                     activated
+* Dynamic Resolution (ID=812713438)                           activated
+* Enhanced Zoom Continued (ID=651056665)                      activated
+* Sharp Textures (ID=793176674)                               activated
+* Cinematic Camera Extended 0.5.0 (ID=785528371)              activated
+* Automatic Emptying: Extended (ID=686588890)                 activated
+* Clouds & Fog Toggler (ID=523824395)                         activated
+* Image Overlay (ID=814102166)                                activated
+* CSL Map View (ID=845665815)                                 activated
+* Vehicle Effects 1.8.0 (ID=780720853)                        activated
+* Fine Road Tool 1.3.5 (ID=651322972)                         activated
+* Camera Positions Utility (ID=898480258)                     activated
+* Ambient Sounds Tuner (ID=818641631)                         activated
+* Daylight Classic (ID=530871278)                             activated
+* Move It! 1.7.7 (ID=766190099)                               activated
+* Advanced Vehicle Options 1.8.0 (ID=442167376)               activated
+* PostProcessFX (ID=412146081)                                activated
 
 ### assets list ###
 
@@ -291,12 +307,6 @@ then regex ^([\w]) to replace with \* $1 (match all lines starting with \w, catc
 * Scots Pine Tree (ID=610065798)                              activated
 * Scots Pine 2 (ID=659116531)                                 activated
 * Bare Tree D (ID=896308318)                                  activated
-* r69-ploppableasphalt-1 (ID=881291183)                       activated
-* r69-ploppableasphalt-2 (ID=881291183)                       activated
-* r69-ploppableasphalt-3 (ID=881291183)                       activated
-* r69-ploppableasphalt-4 (ID=881291183)                       activated
-* r69-ploppableasphalt-decal-1 (ID=881291183)                 activated
-* r69-ploppableasphalt-decal-2 (ID=881291183)                 activated
 * M Y-Wagen prop (ID=724938024)                               activated
 * M Tatra T6B5 prop (ID=724937268)                            activated
 * M Tatra T3 prop (ID=724936462)                              activated
@@ -329,7 +339,6 @@ then regex ^([\w]) to replace with \* $1 (match all lines starting with \w, catc
 * lg generic tree S 1 (ID=931378862)                          activated
 * lg generic tree S 2 (ID=931378862)                          activated
 * lg generic tree tiny (ID=931378862)                         activated
-* bateavigo2 (ID=919493859)                                   activated
 * HouseboatWrapper (ID=691602861)                             activated
 * Motorboat01aWrapper (ID=691602861)                          activated
 * Motorboat01bWrapper (ID=691602861)                          activated
@@ -349,6 +358,85 @@ then regex ^([\w]) to replace with \* $1 (match all lines starting with \w, catc
 * Timboh's Clovermill Interchange (ID=406647772)              deactivated
 * Timboh's Windmill Interchange (ID=406646871)                deactivated
 * Timboh's Turbine Interchange II (ID=406269372)              deactivated
+* r69-forest-filler-large (ID=817935212)                      deactivated
+* r69-forest-filler-small (ID=817935212)                      deactivated
+* r69-tetrapod-dry (ID=823479973)                             deactivated
+* r69-tetrapod-underwater (ID=823479973)                      deactivated
+* r69-tetrapod-wet (ID=823479973)                             deactivated
+* r69-tetrapods-pattern (ID=823479973)                        deactivated
+* r69-tetrapods-pile (ID=823479973)                           deactivated
+* r69-curb-1x (ID=883703658)                                  deactivated
+* r69-curb-4x (ID=883703658)                                  deactivated
+* r69-curb-curved (ID=883703658)                              deactivated
+* r69-bigretaining-corner-1 (ID=914115556)                    deactivated
+* r69-bigretaining-corner-2 (ID=914115556)                    deactivated
+* r69-bigretaining (ID=914115556)                             deactivated
+* r69-tunnel-block-1 (ID=918308740)                           deactivated
+* r69-tunnel-block-2 (ID=918308740)                           deactivated
+* r69-tunnel-entrance-1 (ID=918308740)                        deactivated
+* r69-tunnel-entrance-2 (ID=918308740)                        deactivated
+* r69-water-treatment-basin (ID=1171064873)                   deactivated
+* r69-water-treatment-clarifier (ID=1171064873)               deactivated
+* r69-ploppable-grass-angled30 (ID=1258125733)                deactivated
+* r69-ploppable-grass-angled45 (ID=1258125733)                deactivated
+* r69-ploppable-grass-circle16 (ID=1258125733)                deactivated
+* r69-ploppable-grass-circle8 (ID=1258125733)                 deactivated
+* r69-ploppable-grass-square16 (ID=1258125733)                deactivated
+* r69-ploppable-grass-square4 (ID=1258125733)                 deactivated
+* r69-ploppable-grass-square8 (ID=1258125733)                 deactivated
+* r69-ploppable-grass-ssquare16 (ID=1258125733)               deactivated
+* r69-ploppable-grass-ssquare4 (ID=1258125733)                deactivated
+* r69-ploppable-grass-ssquare8 (ID=1258125733)                deactivated
+* r69-ploppable-cliff-angled30 (ID=1258125191)                deactivated
+* r69-ploppable-cliff-angled45 (ID=1258125191)                deactivated
+* r69-ploppable-cliff-circle16 (ID=1258125191)                deactivated
+* r69-ploppable-cliff-circle8 (ID=1258125191)                 deactivated
+* r69-ploppable-cliff-square16 (ID=1258125191)                deactivated
+* r69-ploppable-cliff-square4 (ID=1258125191)                 deactivated
+* r69-ploppable-cliff-square8 (ID=1258125191)                 deactivated
+* r69-ploppable-gravel-angled30 (ID=1258124638)               deactivated
+* r69-ploppable-gravel-angled45 (ID=1258124638)               deactivated
+* r69-ploppable-gravel-circle16 (ID=1258124638)               deactivated
+* r69-ploppable-gravel-circle8 (ID=1258124638)                deactivated
+* r69-ploppable-gravel-square16 (ID=1258124638)               deactivated
+* r69-ploppable-gravel-square32 (ID=1258124638)               deactivated
+* r69-ploppable-gravel-square4 (ID=1258124638)                deactivated
+* r69-ploppable-gravel-square8 (ID=1258124638)                deactivated
+* r69-ploppable-gravel-ssquare16 (ID=1258124638)              deactivated
+* r69-ploppable-gravel-ssquare32 (ID=1258124638)              deactivated
+* r69-ploppable-gravel-ssquare4 (ID=1258124638)               deactivated
+* r69-ploppable-gravel-ssquare8 (ID=1258124638)               deactivated
+* r69-ploppable-pavement-angled30 (ID=1258124059)             deactivated
+* r69-ploppable-pavement-angled45 (ID=1258124059)             deactivated
+* r69-ploppable-pavement-circle16 (ID=1258124059)             deactivated
+* r69-ploppable-pavement-circle8 (ID=1258124059)              deactivated
+* r69-ploppable-pavement-square16 (ID=1258124059)             deactivated
+* r69-ploppable-pavement-square32 (ID=1258124059)             deactivated
+* r69-ploppable-pavement-square4 (ID=1258124059)              deactivated
+* r69-ploppable-pavement-square8 (ID=1258124059)              deactivated
+* r69-ploppable-pavement-ssquare16 (ID=1258124059)            deactivated
+* r69-ploppable-pavement-ssquare32 (ID=1258124059)            deactivated
+* r69-ploppable-pavement-ssquare4 (ID=1258124059)             deactivated
+* r69-ploppable-pavement-ssquare8 (ID=1258124059)             deactivated
+* r69-ploppable-asphalt-angled30 (ID=1258123334)              deactivated
+* r69-ploppable-asphalt-angled45 (ID=1258123334)              deactivated
+* r69-ploppable-asphalt-circle16 (ID=1258123334)              deactivated
+* r69-ploppable-asphalt-circle8 (ID=1258123334)               deactivated
+* r69-ploppable-asphalt-square16 (ID=1258123334)              deactivated
+* r69-ploppable-asphalt-square32 (ID=1258123334)              deactivated
+* r69-ploppable-asphalt-square4 (ID=1258123334)               deactivated
+* r69-ploppable-asphalt-square8 (ID=1258123334)               deactivated
+* r69-ploppable-asphalt-ssquare16 (ID=1258123334)             deactivated
+* r69-ploppable-asphalt-ssquare32 (ID=1258123334)             deactivated
+* r69-ploppable-asphalt-ssquare4 (ID=1258123334)              deactivated
+* r69-ploppable-asphalt-ssquare8 (ID=1258123334)              deactivated
+* r69-ploppable-asphalt-transition (ID=1258123334)            deactivated
+* r69-ploppableasphalt-1 (ID=881291183)                       activated
+* r69-ploppableasphalt-2 (ID=881291183)                       activated
+* r69-ploppableasphalt-3 (ID=881291183)                       activated
+* r69-ploppableasphalt-4 (ID=881291183)                       activated
+* r69-ploppableasphalt-decal-1 (ID=881291183)                 activated
+* r69-ploppableasphalt-decal-2 (ID=881291183)                 activated
 
 ### district styles list ###
 
