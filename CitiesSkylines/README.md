@@ -15,7 +15,7 @@ See in folder for city progress log and used mods.
 
 Captures for timelapse:
 
-Browse the screens here - https://drive.google.com/open?id=0BxAnXCO6KVdUTVVJRTRiMXJscG8.
+Browse the screens here - https://drive.google.com/drive/folders/1LvGUVHA965MyRkn_PK1B8mK73wcTZqxD.
 
 How was it made?
 Using Camera Positions Utility (ID=898480258) and HideUI (ID=406326408)
