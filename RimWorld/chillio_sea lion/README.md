@@ -98,6 +98,25 @@ The pirate appeared on the southwest corner (bottom left) and there is a big roo
 
 [ screens 0014-0018 ]
 
-# Third week - YYYY/MM/DD - $game_date
+# Third week - 2018/05/02 - 6th of Jugust
 
+Only one dumb pirate attacked.
+
+Heatwave + eclipse was something else though, 3 ppl collapsed, but were rescued and are fine now.
+
+Manual priority was used, mainly for cleaning, but that left lots of things unattended, such as the prisoner frederic fainting from starvation...
+
+Beds were researched, so no more sleeping on the ground, then brewing, although nobody can grow hops yet, drugs production is next. We gotta sell something.
+
+Construction effort is going ok, outside room with butcher's table was expanded, with a thought of defense place, digging into main mountain slowly continues.
+
+I guess carpet making and some nice stuff should be done after eletricity and cooling. Will see when the end will go mad and send tons of enemies.
+
+Oh and AI showed a location east of our mainland location about a aship[screen_0019]
+
+[ no screens 0019 ]
+
+# Fourth week - YYYY/MM/DD - $game_date
+
+[ screens 0020-00XX ]
 ....
