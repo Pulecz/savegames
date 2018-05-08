@@ -68,7 +68,7 @@ target_save=$(pick_a_file)
 ## 2. prepare git folder based on city and map name and copy save	
 echo Copying to git folder, confirm overwrite, if you don\'t care to made a commit on last one
 mkdir_if_none "${game[git_path]}"
-cp -i "${game[savegames_path]}"/${target_save} "${game[git_path]}"
+cp -i "${game[savegames_path]}"/${target_save} "${game[git_path]}/${name_map}.sav"  # copy the save and rename it to name_map.sav
 
 ## 3. run editor for README.md(space_log.md) and totalcmd for screenshots
 cd "${game[git_path]}"
