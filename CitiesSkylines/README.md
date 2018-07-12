@@ -34,4 +34,10 @@ Camera positions:
 * 6 - similar to 3, pointing south east
 * 9 - maximum meaningful zoom, up is north
 
-# save2-future
+# save2-MasonValley
+
+New mods list, (see 2018_07_11_clean_w_gfx_v1.clipboard or get the xml), starting it I finalized howto steps in /README.md.
+
+9 camera positions, screens are so far just for each commit under not specified time in between. Gotta make it a standard.
+
+More info will follow.

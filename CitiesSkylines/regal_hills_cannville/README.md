@@ -201,6 +201,14 @@ City is growing slowly, 43k pop or so, not rising too much, stabilizing, modey i
 
 It won't be long until I am finished with this town and move to another, already picked a spot and name.
 
+# 2018/06/04
+
+Had 250k of monies, few schools, one tunnel, new train station, new garbage burner and few stuff and its gone.
+The crossroads near forest industry area is mad, I tried one highway ramp, will see how that will/won't help.
+
+There is a demand for industry, need to make more offices or new industrial area well connected to the roads.
+Maybe also cargo train station, better check some examples how to do so.
+
 ---------------------------------------------------------------------------
 
 used mods: (exported by copy to clipboard from settings of the Mod List mod)

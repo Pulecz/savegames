@@ -25,9 +25,27 @@ You will also need [these scripts](https://github.com/Pulecz/dotfiles/tree/maste
 
 I should do video on it anyway.
 
+### How to start in game
+
+1. create the map, with proper map theme, name can still be decided in game before first save
+2. pause the game, set up correct colour scheme and figure out the positions for cameras, consider using input panel for top shots
+3. save the game without building anything as city master-<city_name>, master being the master git branch.
+4. run the helper script
+5. do git add, commit, push
+
 ## RimWorld
 
 Similar thing with CS, pick save, copy it, ask for ModsConfig, open totalcmd for managing screenshots and default editor for save's README.md
+
+### How to
+
+TODO
+
+1. Start the game...
+2. ..
+3. ..
+4. Run the script
+5. do git add, commit, push
 
 ### Planned:
 None

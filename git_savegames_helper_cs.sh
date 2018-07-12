@@ -9,9 +9,9 @@ eval $(ssh-agent);ssh-add ${KEY_PATH}
 # Cities Skylines git savegames helper
 
 # SET THESE!
-name_map="regal_hills"
-name_city="cannville"
-backup_id="09" # 2 digit number
+name_map="eden_valley"
+name_city="masonvalley"
+backup_id="10" # 2 digit number
 
 # note that bash used in cmder 1.3.5 does not map network drives, use msys instead
 backup_folder="/s/incoming/saves"
