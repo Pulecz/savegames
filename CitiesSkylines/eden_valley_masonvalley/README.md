@@ -9,6 +9,6 @@ Few residental area mixed with commercial and further out the heavy industry.
 
 Reached Second loan tier, very tight match, barely staying green. Basic needs built.
 
-# late night
+# 18/07/14
 
-Hoping to do more work this night
+I forgot what I did, gotta run
